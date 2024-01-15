@@ -1,0 +1,259 @@
+[
+  {
+    "paper": "prothomAlo",
+    "url": "https://www.prothomalo.com/",
+    "favicon": "https://www.prothomalo.com/favicon.ico",
+    "logo": "https://embed.footylight.com/banglapapers/images/prothomalo.png",
+    "category": [
+      {
+        "title": "মূল পাতা",
+        "name": "Main-Page",
+        "url": "https://www.prothomalo.com/"
+      },
+      {
+        "title": "বাংলাদেশ",
+        "name": "Bangladesh",
+        "url": "https://www.prothomalo.com/bangladesh"
+      },
+      {
+        "title": "আন্তর্জাতিক",
+        "name": "International",
+        "url": "https://www.prothomalo.com/world"
+      },
+      {
+        "title": "বাণিজ্য",
+        "name": "Economics",
+        "url": "https://www.prothomalo.com/business"
+      },
+      {
+        "title": "মতামত",
+        "name": "Opinion",
+        "url": "https://www.prothomalo.com/opinion"
+      },
+      {
+        "title": "খেলাধুলা",
+        "name": "Sports",
+        "url": "https://www.prothomalo.com/sports"
+      },
+      {
+        "title": "বিনোদন",
+        "name": "Entertainment",
+        "url": "https://www.prothomalo.com/entertainment"
+      },
+      {
+        "title": "জীবনযাপন",
+        "name": "lifestyle",
+        "url": "https://www.prothomalo.com/lifestyle"
+      },
+      {
+        "title": "সর্বশেষ",
+        "name": "Latest",
+        "url": "https://www.prothomalo.com/collection/latest"
+      },
+      {
+        "title": "রাজনীতি",
+        "name": "Politics",
+        "url": "https://www.prothomalo.com/politics"
+      },
+      {
+        "title": "বিশেষ-সংবাদ",
+        "name": "Special-News",
+        "url": "https://www.prothomalo.com/topic/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6"
+      }
+    ]
+  },
+  {
+    "paper": "dailynayadiganta",
+    "url": "https://www.dailynayadiganta.com/",
+    "favicon": "https://www.dailynayadiganta.com/resources/img/sitesetup/favicon.ico",
+    "logo": "https://embed.footylight.com/banglapapers/images/nayadiganta.png",
+    "category": [
+      {
+        "title": "মূল পাতা",
+        "name": "Main-Page",
+        "url": "https://www.dailynayadiganta.com/"
+      },
+      {
+        "title": "দেশ",
+        "name": "Bangladesh",
+        "url": "https://www.dailynayadiganta.com/country/7"
+      },
+      {
+        "title": "আন্তর্জাতিক",
+        "name": "International",
+        "url": "https://www.dailynayadiganta.com/international/8"
+      },
+      {
+        "title": "শিল্প ও সাহিত্য",
+        "name": "art-literature",
+        "url": "https://www.dailynayadiganta.com/art-literature/73"
+      },
+      {
+        "title": "উপসম্পাদকীয়",
+        "name": "Opinion",
+        "url": "https://www.dailynayadiganta.com/sub-editorial/9"
+      },
+      {
+        "title": "খেলাধুলা",
+        "name": "Sports",
+        "url": "https://www.dailynayadiganta.com/sports/11"
+      },
+      {
+        "title": "বিনোদন",
+        "name": "Entertainment",
+        "url": "https://www.dailynayadiganta.com/entertainment/16"
+      },
+      {
+        "title": "জীবনযাপন",
+        "name": "lifestyle",
+        "url": "https://www.dailynayadiganta.com/lifestyle/15"
+      },
+      {
+        "title": "আজকের পত্রিকা",
+        "name": "todays-paper",
+        "url": "https://www.dailynayadiganta.com/todays-paper/13"
+      },
+      {
+        "title": "জাতীয়",
+        "name": "national",
+        "url": "https://www.dailynayadiganta.com/national/1"
+      },
+      {
+        "title": "অন্যান্য",
+        "name": "others",
+        "url": "https://www.dailynayadiganta.com/others/19"
+      }
+    ]
+  },
+  {
+    "paper": "kalerkantho",
+    "url": "https://www.kalerkantho.com/",
+    "favicon": "https://www.kalerkantho.com/favicon.ico",
+    "logo": "https://embed.footylight.com/banglapapers/images/kalerkantha.png",
+    "category": [
+      {
+        "title": "মূল পাতা",
+        "name": "Main-Page",
+        "url": "https://www.kalerkantho.com/"
+      },
+      {
+        "title": "জাতীয়",
+        "name": "National",
+        "url": "https://www.kalerkantho.com/online/national"
+      },
+      {
+        "title": "সারাবাংলা",
+        "name": "country-news",
+        "url": "https://www.kalerkantho.com/online/country-news"
+      },
+      {
+        "title": "বিশ্ব",
+        "name": "International",
+        "url": "https://www.kalerkantho.com/online/world"
+      },
+      {
+        "title": "বাণিজ্য",
+        "name": "Economics",
+        "url": "https://www.kalerkantho.com/online/business"
+      },
+      {
+        "title": "খেলা",
+        "name": "Sports",
+        "url": "https://www.kalerkantho.com/online/sport"
+      },
+      {
+        "title": "বিনোদন",
+        "name": "Entertainment",
+        "url": "https://www.kalerkantho.com/online/entertainment"
+      },
+      {
+        "title": "জীবনযাপন",
+        "name": "lifestyle",
+        "url": "https://www.kalerkantho.com/online/lifestyle"
+      },
+      {
+        "title": "ইসলামী জীবন",
+        "name": "Islamic-lifestylie",
+        "url": "https://www.kalerkantho.com/online/Islamic-lifestylie"
+      },
+      {
+        "title": "রাজনীতি",
+        "name": "Politics",
+        "url": "https://www.kalerkantho.com/online/Politics"
+      },
+      {
+        "title": "শিক্ষা",
+        "name": "Education",
+        "url": "https://www.kalerkantho.com/online/campus-online"
+      },
+      {
+        "title": "শুভসংঘ",
+        "name": "Shuvosangho",
+        "url": "https://www.kalerkantho.com/online/shuvosangho"
+      }
+    ]
+  },
+  {
+    "paper": "dailyjanakantha",
+    "url": "https://www.dailyjanakantha.com/",
+    "favicon": "https://www.dailyjanakantha.com/media/common/favicon.ico",
+    "logo": "https://embed.footylight.com/banglapapers/images/janakantha.png",
+    "category": [
+      {
+        "title": "মূল পাতা",
+        "name": "Main-Page",
+        "url": "https://www.dailyjanakantha.com/"
+      },
+      {
+        "title": "বাংলাদেশ",
+        "name": "Bangladesh",
+        "url": "https://www.dailyjanakantha.com/bangladesh/"
+      },
+      {
+        "title": "আন্তর্জাতিক",
+        "name": "International",
+        "url": "https://www.dailyjanakantha.com/international/"
+      },
+      {
+        "title": "বাণিজ্য",
+        "name": "Economics",
+        "url": "https://www.dailyjanakantha.com/economy/"
+      },
+      {
+        "title": "মতামত",
+        "name": "Opinion",
+        "url": "https://www.dailyjanakantha.com/opinion/"
+      },
+      {
+        "title": "খেলাধুলা",
+        "name": "Sports",
+        "url": "https://www.dailyjanakantha.com/sports/"
+      },
+      {
+        "title": "বিনোদন",
+        "name": "Entertainment",
+        "url": "https://www.dailyjanakantha.com/entertainment/"
+      },
+      {
+        "title": "জীবনযাপন",
+        "name": "lifestyle",
+        "url": "https://www.dailyjanakantha.com/lifestyle/"
+      },
+      {
+        "title": "সর্বশেষ",
+        "name": "Latest",
+        "url": "https://www.dailyjanakantha.com/latest-news/"
+      },
+      {
+        "title": "রাজনীতি",
+        "name": "Politics",
+        "url": "https://www.dailyjanakantha.com/politics/"
+      },
+      {
+        "title": "জাতীয়",
+        "name": "national",
+        "url": "https://www.dailyjanakantha.com/national/"
+      }
+    ]
+  }
+]
